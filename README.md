@@ -18,13 +18,6 @@
 
 [<img src="https://github.com/machiav3lli/oandbackupx/raw/034b226cea5c1b30eb4f6a6f313e4dadcbb0ece4/badge_github.png" alt="Get it on GitHub" height="65">](https://github.com/shwzr/Nekoxtract/releases/latest) 
 
-## 🚀 Usage - Exe Method
-
-**First Step :** Simply click on the Nekoxtract-setup.exe and vc_redist.x64.exe file
-
-**Second Step :** Simply click on the Nekoxtract.exe file<br><br>
-Then go to the site neko-sama.fr to find the anime you want like this example<br> [https://www.neko-sama.fr/anime/info/11-naruto_vostfr] then see the result for yourself.
-
 ## 🚀 Usage - Python Method
 
 **First Step :** Simply click on the Install.bat file
