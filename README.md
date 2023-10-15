@@ -12,7 +12,7 @@
 
 > 🪝 Here is a program that retrieves streaming links from the neko-sama.fr website.
 
-<img alt="Laranime" src="src/Nekoxtract.png"/>
+<img alt="Laranime" src="https://github.com/shwzr/AnimecatXtract/raw/main/src/Animecatxtract.png"/>
 
 ##  👇 Downloads
 
