@@ -1,1 +1,1 @@
-nekoxtract.pyw
+python nekoxtract.py
